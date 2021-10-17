@@ -124,7 +124,7 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
 }
 #header .logo a {
-  color: black;
+  color: #fff;
 }
 #header .logo a span {
   color: #ffc451;
@@ -183,7 +183,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 10px 0 10px 30px;
   font-size: 15px;
   font-weight: 600;
-  color: black;
+  color: #fff;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -351,7 +351,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #hero:before {
   content: "";
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, 0.4);
   position: absolute;
   bottom: 0;
   top: 0;
