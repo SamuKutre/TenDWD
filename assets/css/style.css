@@ -134,7 +134,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*--------------------------------------------------------------
-#  Get Startet Button
+#  Get Started Button
 --------------------------------------------------------------*/
 .get-started-btn {
   color: #fff;
@@ -1343,4 +1343,10 @@ section {
   text-align: center;
   font-size: 13px;
   color: #fff;
+}
+
+.footer-image {
+  width: 90%;
+  height:  90%;
+  margin-left: -10%;
 }
